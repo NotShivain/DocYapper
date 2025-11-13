@@ -1,0 +1,14 @@
+streamlit
+requests
+beautifulsoup4
+PyPDF2
+langchain
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-classic
+faiss-cpu
+huggingface-hub
+sentence-transformers
