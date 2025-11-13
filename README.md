@@ -4,7 +4,7 @@
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Generate API Key
 This app utilizes **Groq** for LLM inference.  
