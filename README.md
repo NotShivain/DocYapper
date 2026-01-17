@@ -1,8 +1,7 @@
 # DocYapper: Chat with Your Docs!
 try the deployed version : https://docyapper.streamlit.app/
 
-**DocYapper** enables you to interactively chat with documents, research papers, or articles using advanced LLM capabilities enhanced with **Pageindex MCP**, more info about page index -> https://pageindex.ai/blog/pageindex-intro.
-
+**DocYapper** enables you to interactively chat with documents, research papers, or articles using advanced LLM capabilities enhanced with **Retrieval Augmented Generation (RAG)**
 ---
 
 ##  Setup Instructions
